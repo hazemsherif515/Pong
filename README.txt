@@ -1,4 +1,4 @@
-# Pong (Ratatui Practice Project)
+# Pong
 
 A simple terminal UI project built with Rust and ratatui.
 
@@ -13,5 +13,6 @@ A simple terminal UI project built with Rust and ratatui.
 cargo run
 
 ## Build Release
+
 
 cargo build --release
